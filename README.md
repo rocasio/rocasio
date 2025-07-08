@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 Software Engineer - Coder for decades: BASIC, VB, C++, C#, JS, React & more <br>💡 Exploring clean, joyful, intuitive code
+🧠 Software Engineer - Coder for decades: C#, JS, React & much more <br>💡 Exploring clean, joyful, intuitive code
 
 
 ## 🌐 Socials:
